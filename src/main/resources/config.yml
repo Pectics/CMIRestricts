@@ -1,0 +1,3 @@
+tpa_world_restriction:
+  enabled: false
+  message: "<red>您还未到达过该区域！"

@@ -1,0 +1,12 @@
+name: CMIRestricts
+version: '1.0.0'
+main: me.pectics.paper.plugin.cmirestricts.CMIRestricts
+api-version: '1.21'
+authors: [ Pectics ]
+depends: [ CMI, PlaceholderAPI ]
+commands:
+  cmirestricts:
+    aliases: [ cmir ]
+    description: Main command for CMIRestricts plugin
+    usage: /<command> <reload>
+    permission: op
